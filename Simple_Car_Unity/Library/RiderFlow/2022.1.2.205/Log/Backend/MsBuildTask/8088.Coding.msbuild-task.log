@@ -1,0 +1,69 @@
+﻿23:06:44.577 |I| Core                           | RequestBuilder thread:8        | MsBuild process with Id = 8121
+23:06:44.581 |I| Core                           | RequestBuilder thread:8        | MsBuild location = /Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/MSBuild.dll
+23:06:44.581 |I| Core                           | RequestBuilder thread:8        | 
+23:06:44.581 |I| Core                           | RequestBuilder thread:8        | Start ControllerTask...
+23:06:44.582 |I| Core                           | RequestBuilder thread:8        | Detected version: 16.10
+23:06:44.585 |I| Core                           | RequestBuilder thread:8        | Creating SocketWire with port = 56377
+23:06:44.621 |I| Core                           | RequestBuilder thread:8        | Create protocol...
+23:06:44.726 |I| Core                           | RequestBuilder thread:8        | Create MsBuildModel and advise for new sessions...
+23:06:44.788 |I| Core                           | RequestBuilder thread:8        | Subscribe for changes...
+23:06:44.791 |I| Core                           | RequestBuilder thread:8        | Setup process watchdog...
+23:06:44.793 |I| Core                           | RequestBuilder thread:8        | Run dispatcher...
+23:06:44.794 |I| ProcessWatchdog                | WatchParentPid:8088:12         | Monitoring parent process PID:8088
+23:06:44.867 |I| Core                           | RequestBuilder thread:8        | Get protocol session 'RdProjectModelSession'
+23:06:44.886 |I| Core                           | RequestBuilder thread:8        | Msbuild session 'ProjectModelSessionHost' created
+23:06:44.952 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading 2 project(s) in 1 node(s)...
+23:06:44.995 |I| Build                          | Thread Pool Worker:4           | Build started.
+23:06:45.792 |I| BuildQueue                     | RequestBuilder thread:8        | Build immediately: \Users\home\Documents\Unity\Coding\Assembly-CSharp.csproj
+23:06:45.797 |I| Build                          | RequestBuilder thread:8        | Start build 'Assembly-CSharp.csproj' with 1 target frameworks
+23:06:45.833 |I| Build                          | RequestBuilder thread:8        | Targets for build: _CheckForInvalidConfigurationAndPlatform;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;Compile;CoreCompile
+23:06:45.848 |I| BuildQueue                     | RequestBuilder thread:8        | Build immediately: \Users\home\Documents\Unity\Coding\JetBrains.Frontend.2021.2.csproj
+23:06:45.849 |I| Build                          | RequestBuilder thread:8        | Start build 'JetBrains.Frontend.2021.2.csproj' with 1 target frameworks
+23:06:45.853 |I| Build                          | RequestBuilder thread:8        | Targets for build: _CheckForInvalidConfigurationAndPlatform;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;Compile;CoreCompile
+23:06:46.594 |I| Build                          | Thread Pool Worker:22          | Finish build part [1/1] for project 'Assembly-CSharp.csproj': Success
+23:06:46.595 |I| Build                          | Thread Pool Worker:22          | Finish build project 'Assembly-CSharp.csproj': Success
+23:06:46.736 |I| Build                          | Thread Pool Worker:22          | Finish build part [1/1] for project 'JetBrains.Frontend.2021.2.csproj': Success
+23:06:46.736 |I| Build                          | Thread Pool Worker:22          | Finish build project 'JetBrains.Frontend.2021.2.csproj': Success
+23:06:48.436 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading has finished, statistic: 
+	Total: 3.42 sec
+	Binding: 0.11 sec
+	Evaluation: 0.65 sec
+23:06:48.457 |I| Build                          | Thread Pool Worker:26          | Build succeeded.
+23:10:38.377 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading 1 project(s) in 1 node(s)...
+23:10:38.390 |I| Build                          | Thread Pool Worker:5           | Build started.
+23:10:38.443 |I| BuildQueue                     | RequestBuilder thread:8        | Build immediately: \Users\home\Documents\Unity\Coding\Assembly-CSharp.csproj
+23:10:38.443 |I| Build                          | RequestBuilder thread:8        | Start build 'Assembly-CSharp.csproj' with 1 target frameworks
+23:10:38.444 |I| Build                          | RequestBuilder thread:8        | Targets for build: _CheckForInvalidConfigurationAndPlatform;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;Compile;CoreCompile
+23:10:38.549 |I| Build                          | Thread Pool Worker:7           | Finish build part [1/1] for project 'Assembly-CSharp.csproj': Success
+23:10:38.549 |I| Build                          | Thread Pool Worker:7           | Finish build project 'Assembly-CSharp.csproj': Success
+23:10:38.946 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading has finished, statistic: 
+	Total: 0.55 sec
+	Binding: 0.01 sec
+	Evaluation: 0.04 sec
+23:10:38.961 |I| Build                          | Thread Pool Worker:17          | Build succeeded.
+23:13:35.542 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading 1 project(s) in 1 node(s)...
+23:13:35.545 |I| Build                          | Thread Pool Worker:26          | Build started.
+23:13:35.583 |I| BuildQueue                     | RequestBuilder thread:8        | Build immediately: \Users\home\Documents\Unity\Coding\Assembly-CSharp.csproj
+23:13:35.583 |I| Build                          | RequestBuilder thread:8        | Start build 'Assembly-CSharp.csproj' with 1 target frameworks
+23:13:35.584 |I| Build                          | RequestBuilder thread:8        | Targets for build: _CheckForInvalidConfigurationAndPlatform;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;Compile;CoreCompile
+23:13:35.656 |I| Build                          | Thread Pool Worker:7           | Finish build part [1/1] for project 'Assembly-CSharp.csproj': Success
+23:13:35.656 |I| Build                          | Thread Pool Worker:7           | Finish build project 'Assembly-CSharp.csproj': Success
+23:13:35.726 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading has finished, statistic: 
+	Total: 0.18 sec
+	Binding: 0.01 sec
+	Evaluation: 0.03 sec
+23:13:35.727 |I| Build                          | Thread Pool Worker:19          | Build succeeded.
+23:39:52.085 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading 1 project(s) in 1 node(s)...
+23:39:52.116 |I| Build                          | Thread Pool Worker:29          | Build started.
+23:39:52.213 |I| BuildQueue                     | RequestBuilder thread:8        | Build immediately: \Users\home\Documents\Unity\Coding\Assembly-CSharp.csproj
+23:39:52.213 |I| Build                          | RequestBuilder thread:8        | Start build 'Assembly-CSharp.csproj' with 1 target frameworks
+23:39:52.217 |I| Build                          | RequestBuilder thread:8        | Targets for build: _CheckForInvalidConfigurationAndPlatform;ResolveReferences;ResolveProjectReferences;ResolveAssemblyReferences;ResolveComReferences;ResolveNativeReferences;ResolveSdkReferences;ResolveFrameworkReferences;Compile;CoreCompile
+23:39:52.423 |I| Build                          | Thread Pool Worker:24          | Finish build part [1/1] for project 'Assembly-CSharp.csproj': Success
+23:39:52.423 |I| Build                          | Thread Pool Worker:24          | Finish build project 'Assembly-CSharp.csproj': Success
+23:39:52.837 |I| ProjectModel                   | RequestBuilder thread:8        | Reloading has finished, statistic: 
+	Total: 0.71 sec
+	Binding: 0.02 sec
+	Evaluation: 0.08 sec
+23:39:52.840 |I| Build                          | Thread Pool Worker:26          | Build succeeded.
+00:14:18.642 |I| Core                           | RequestBuilder thread:8        | Msbuild session 'ProjectModelSessionHost' was terminated
+00:14:18.649 |I| Core                           | RequestBuilder thread:8        | Connection lost, kill msbuild

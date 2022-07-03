@@ -1,0 +1,405 @@
+23:05:54.036 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:05:54.057 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:05:54.082 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:05:54.138 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56363
+23:05:54.140 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | ServerSocket-UnityServer : accepting, port: 56363
+23:05:57.372 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:05:57.374 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:05:57.379 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:05:57.379 |I| Launcher                      | :1                 | Subscribing for events
+23:06:28.909 |I| Launcher                      | :1                 | Start running backend
+23:06:29.033 |V| Launcher                      | :1                 | Waiting connection...
+23:06:51.074 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | ServerSocket-UnityServer : accepted
+23:06:51.075 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | ServerSocket-UnityServer : connected
+23:06:51.097 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:93 | RESUME :: state=AsyncProcessing
+23:06:54.623 |V| Launcher                      | :1                 | Ready!
+23:10:08.626 |V| Base                          | :1                 | closing server socket
+23:10:08.648 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:10:08.651 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:10:08.651 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:10:08.654 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:10:08.655 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:10:08.656 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | ServerSocket-UnityServer: Total traffic: sent 31272, received 212274
+23:10:08.661 |V| Server                        | ServerSocket-UnityServer-Receiver:93 | ServerSocket-UnityServer: terminated.
+23:10:08.662 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:10:14.264 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:10:14.287 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:10:14.317 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:10:14.363 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56462
+23:10:14.365 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | ServerSocket-UnityServer : accepting, port: 56462
+23:10:14.499 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | ServerSocket-UnityServer : accepted
+23:10:14.499 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | ServerSocket-UnityServer : connected
+23:10:14.532 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:108 | RESUME :: state=AsyncProcessing
+23:10:17.579 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:10:17.583 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:10:17.589 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:10:17.589 |I| Launcher                      | :1                 | Subscribing for events
+23:10:17.621 |I| Launcher                      | :1                 | Start running backend
+23:10:17.624 |V| Launcher                      | :1                 | Waiting connection...
+23:10:27.734 |V| Launcher                      | :1                 | Ready!
+23:10:40.549 |V| Base                          | :1                 | closing server socket
+23:10:40.573 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:10:40.575 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:10:40.576 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:10:40.578 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:10:40.579 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:10:40.582 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | ServerSocket-UnityServer: Total traffic: sent 1253, received 3839
+23:10:40.585 |V| Server                        | ServerSocket-UnityServer-Receiver:108 | ServerSocket-UnityServer: terminated.
+23:10:40.585 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:10:46.062 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:10:46.086 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:10:46.115 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:10:46.164 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56466
+23:10:46.166 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | ServerSocket-UnityServer : accepting, port: 56466
+23:10:48.326 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | ServerSocket-UnityServer : accepted
+23:10:48.327 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | ServerSocket-UnityServer : connected
+23:10:48.402 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:115 | RESUME :: state=AsyncProcessing
+23:10:49.677 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:10:49.679 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:10:49.685 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:10:49.685 |I| Launcher                      | :1                 | Subscribing for events
+23:10:49.709 |I| Launcher                      | :1                 | Start running backend
+23:10:49.713 |V| Launcher                      | :1                 | Waiting connection...
+23:10:50.711 |V| Launcher                      | :1                 | Ready!
+23:13:41.632 |V| Base                          | :1                 | closing server socket
+23:13:41.652 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:13:41.654 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:13:41.654 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:13:41.656 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:13:41.657 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:13:41.658 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | ServerSocket-UnityServer: Total traffic: sent 4414, received 14907
+23:13:41.662 |V| Server                        | ServerSocket-UnityServer-Receiver:115 | ServerSocket-UnityServer: terminated.
+23:13:41.662 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:13:47.026 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:13:47.049 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:13:47.078 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:13:47.126 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56471
+23:13:47.128 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | ServerSocket-UnityServer : accepting, port: 56471
+23:13:49.279 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | ServerSocket-UnityServer : accepted
+23:13:49.280 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | ServerSocket-UnityServer : connected
+23:13:49.331 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:123 | RESUME :: state=AsyncProcessing
+23:13:50.590 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:13:50.593 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:13:50.597 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:13:50.598 |I| Launcher                      | :1                 | Subscribing for events
+23:13:50.621 |I| Launcher                      | :1                 | Start running backend
+23:13:50.624 |V| Launcher                      | :1                 | Waiting connection...
+23:13:52.039 |V| Launcher                      | :1                 | Ready!
+23:14:04.186 |V| Base                          | :1                 | closing server socket
+23:14:04.201 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:14:04.203 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:14:04.203 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:14:04.204 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:14:04.205 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:14:04.207 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | ServerSocket-UnityServer: Total traffic: sent 6426, received 22942
+23:14:04.210 |V| Server                        | ServerSocket-UnityServer-Receiver:123 | ServerSocket-UnityServer: terminated.
+23:14:04.210 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:14:09.622 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:14:09.644 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:14:09.673 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:14:09.721 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56474
+23:14:09.723 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | ServerSocket-UnityServer : accepting, port: 56474
+23:14:11.904 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | ServerSocket-UnityServer : accepted
+23:14:11.906 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | ServerSocket-UnityServer : connected
+23:14:11.961 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:130 | RESUME :: state=AsyncProcessing
+23:14:12.871 |E| UnityConsoleExceptionLogger   | :1                 | ArgumentNullException: Value cannot be null. Parameter name: context Autofac.ResolutionExtensions.ResolveService (Autofac.IComponentContext context, Autofac.Core.Service service, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0) Autofac.ResolutionExtensions.Resolve (Autofac.IComponentContext context, System.Type serviceType, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0) Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0) Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context) (at <b9e1b784e755432ab454c95758a280e1>:0) JetBrains.RiderFlow.Core.Launchers.ComponentContainer.GetCodeEditorComponent[T] () (at <b9e1b784e755432ab454c95758a280e1>:0) JetBrains.RiderFlow.Core.ReEditor.Editor.ReEditorWindow.OnDestroy () (at <b9e1b784e755432ab454c95758a280e1>:0) UnityEditor.ContainerWindow:InternalCloseWindow() (at /Users/bokken/buildslave/unity/build/Editor/Mono/ContainerWindow.cs:338)
+
+--- EXCEPTION #1/2 [UnityLogException]
+Message = “
+  ArgumentNullException: Value cannot be null.
+  Parameter name: context
+  Autofac.ResolutionExtensions.ResolveService (Autofac.IComponentContext context, Autofac.Core.Service service, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve (Autofac.IComponentContext context, System.Type serviceType, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  JetBrains.RiderFlow.Core.Launchers.ComponentContainer.GetCodeEditorComponent[T] () (at <b9e1b784e755432ab454c95758a280e1>:0)
+  JetBrains.RiderFlow.Core.ReEditor.Editor.ReEditorWindow.OnDestroy () (at <b9e1b784e755432ab454c95758a280e1>:0)
+  UnityEditor.ContainerWindow:InternalCloseWindow() (at /Users/bokken/buildslave/unity/build/Editor/Mono/ContainerWindow.cs:338)
+”
+ExceptionPath = Root.InnerException
+ClassName = JetBrains.RiderFlow.Core.Launchers.Launcher+UnityLogException
+HResult = COR_E_EXCEPTION=80131500
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “
+  ArgumentNullException: Value cannot be null.
+  Parameter name: context
+  Autofac.ResolutionExtensions.ResolveService (Autofac.IComponentContext context, Autofac.Core.Service service, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve (Autofac.IComponentContext context, System.Type serviceType, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context, System.Collections.Generic.IEnumerable`1[T] parameters) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  Autofac.ResolutionExtensions.Resolve[TService] (Autofac.IComponentContext context) (at <b9e1b784e755432ab454c95758a280e1>:0)
+  JetBrains.RiderFlow.Core.Launchers.ComponentContainer.GetCodeEditorComponent[T] () (at <b9e1b784e755432ab454c95758a280e1>:0)
+  JetBrains.RiderFlow.Core.ReEditor.Editor.ReEditorWindow.OnDestroy () (at <b9e1b784e755432ab454c95758a280e1>:0)
+  UnityEditor.ContainerWindow:InternalCloseWindow() (at /Users/bokken/buildslave/unity/build/Editor/Mono/ContainerWindow.cs:338)
+”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.ILoggerEx.LogException (JetBrains.Util.ILogger this, JetBrains.Diagnostics.LoggingLevel level, System.Exception exception, JetBrains.Util.ExceptionOrigin exceptionOrigin, System.String comment) [0x00000] in <b9e1b784e755432ab454c95758a280e1>:0 
+    at JetBrains.Util.ILoggerEx.Error (JetBrains.Util.ILogger this, System.Exception exception, JetBrains.Util.ExceptionOrigin origin, System.String comment) [0x00000] in <b9e1b784e755432ab454c95758a280e1>:0 
+    at JetBrains.RiderFlow.Core.Launchers.Launcher.SubscribeUnityLog (System.String condition, System.String trace, UnityEngine.LogType type) [0x00000] in <b9e1b784e755432ab454c95758a280e1>:0 
+    at UnityEngine.Application.CallLogCallback (System.String logString, System.String stackTrace, UnityEngine.LogType type, System.Boolean invokedOnMainThread) [0x00030] in /Users/bokken/buildslave/unity/build/Runtime/Export/Application/Application.cs:127 
+    at UnityEngine.Object.DestroyImmediate (UnityEngine.Object , System.Boolean ) [0x00000] in <6ffc9e3cf18747d6970df6c4b6fa016d>:0 
+    at UnityEditor.DockArea.OnDestroy () [0x0005a] in /Users/bokken/buildslave/unity/build/Editor/Mono/GUI/DockArea.cs:150 
+    at UnityEngine.Object.DestroyImmediate (UnityEngine.Object , System.Boolean ) [0x00000] in <6ffc9e3cf18747d6970df6c4b6fa016d>:0 
+    at UnityEditor.View.OnDestroy () [0x00012] in /Users/bokken/buildslave/unity/build/Editor/Mono/View.cs:185 
+    at UnityEngine.Object.DestroyImmediate (UnityEngine.Object , System.Boolean ) [0x00000] in <6ffc9e3cf18747d6970df6c4b6fa016d>:0 
+    at UnityEditor.ContainerWindow.InternalCloseWindow () [0x00039] in /Users/bokken/buildslave/unity/build/Editor/Mono/ContainerWindow.cs:338
+”
+
+23:14:13.365 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:14:13.367 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:14:13.370 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:14:13.370 |I| Launcher                      | :1                 | Subscribing for events
+23:14:13.396 |I| Launcher                      | :1                 | Start running backend
+23:14:13.399 |V| Launcher                      | :1                 | Waiting connection...
+23:14:14.811 |V| Launcher                      | :1                 | Ready!
+23:29:36.212 |V| Base                          | :1                 | closing server socket
+23:29:36.227 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:29:36.230 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:29:36.230 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:29:36.232 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:29:36.233 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:29:36.235 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | ServerSocket-UnityServer: Total traffic: sent 4001, received 17797
+23:29:36.238 |V| Server                        | ServerSocket-UnityServer-Receiver:130 | ServerSocket-UnityServer: terminated.
+23:29:36.239 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:29:43.023 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:29:43.046 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:29:43.075 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:29:43.123 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56549
+23:29:43.126 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | ServerSocket-UnityServer : accepting, port: 56549
+23:29:45.087 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | ServerSocket-UnityServer : accepted
+23:29:45.089 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | ServerSocket-UnityServer : connected
+23:29:45.154 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:138 | RESUME :: state=AsyncProcessing
+23:29:46.467 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:29:46.469 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:29:46.475 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:29:46.476 |I| Launcher                      | :1                 | Subscribing for events
+23:29:46.512 |I| Launcher                      | :1                 | Start running backend
+23:29:46.515 |V| Launcher                      | :1                 | Waiting connection...
+23:29:47.581 |V| Launcher                      | :1                 | Ready!
+23:29:51.200 |V| Base                          | :1                 | closing server socket
+23:29:51.218 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:29:51.220 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:29:51.220 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:29:51.221 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:29:51.222 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:29:51.226 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | ServerSocket-UnityServer: Total traffic: sent 1253, received 1065
+23:29:51.228 |V| Server                        | ServerSocket-UnityServer-Receiver:138 | ServerSocket-UnityServer: terminated.
+23:29:51.229 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:29:58.765 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:29:58.797 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:29:58.834 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:29:58.888 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56553
+23:29:58.890 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | ServerSocket-UnityServer : accepting, port: 56553
+23:29:59.885 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:29:59.888 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:29:59.895 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:29:59.895 |I| Launcher                      | :1                 | Subscribing for events
+23:29:59.926 |I| Launcher                      | :1                 | Start running backend
+23:29:59.930 |V| Launcher                      | :1                 | Waiting connection...
+23:30:00.613 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | ServerSocket-UnityServer : accepted
+23:30:00.613 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | ServerSocket-UnityServer : connected
+23:30:00.725 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:146 | RESUME :: state=AsyncProcessing
+23:30:02.177 |V| Launcher                      | :1                 | Ready!
+23:30:05.553 |V| Base                          | :1                 | closing server socket
+23:30:05.567 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:30:05.569 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:30:05.569 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:30:05.571 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:30:05.572 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:30:05.574 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | ServerSocket-UnityServer: Total traffic: sent 1253, received 1065
+23:30:05.576 |V| Server                        | ServerSocket-UnityServer-Receiver:146 | ServerSocket-UnityServer: terminated.
+23:30:05.577 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:30:12.957 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:30:12.982 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:30:13.013 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:30:13.068 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56556
+23:30:13.072 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | ServerSocket-UnityServer : accepting, port: 56556
+23:30:14.013 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:30:14.016 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:30:14.022 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:30:14.023 |I| Launcher                      | :1                 | Subscribing for events
+23:30:14.057 |I| Launcher                      | :1                 | Start running backend
+23:30:14.061 |V| Launcher                      | :1                 | Waiting connection...
+23:30:14.853 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | ServerSocket-UnityServer : accepted
+23:30:14.855 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | ServerSocket-UnityServer : connected
+23:30:14.948 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:155 | RESUME :: state=AsyncProcessing
+23:30:16.354 |V| Launcher                      | :1                 | Ready!
+23:36:43.922 |V| Base                          | :1                 | closing server socket
+23:36:43.943 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:36:43.946 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:36:43.946 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:36:43.948 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:36:43.950 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:36:43.952 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | ServerSocket-UnityServer: Total traffic: sent 23676, received 103855
+23:36:43.958 |V| Server                        | ServerSocket-UnityServer-Receiver:155 | ServerSocket-UnityServer: terminated.
+23:36:43.958 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:36:50.664 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:36:50.688 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:36:50.714 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:36:50.761 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56693
+23:36:50.763 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | ServerSocket-UnityServer : accepting, port: 56693
+23:36:52.769 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | ServerSocket-UnityServer : accepted
+23:36:52.772 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | ServerSocket-UnityServer : connected
+23:36:52.827 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:164 | RESUME :: state=AsyncProcessing
+23:36:54.085 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:36:54.087 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:36:54.091 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:36:54.092 |I| Launcher                      | :1                 | Subscribing for events
+23:36:54.119 |I| Launcher                      | :1                 | Start running backend
+23:36:54.123 |V| Launcher                      | :1                 | Waiting connection...
+23:36:55.319 |V| Launcher                      | :1                 | Ready!
+23:39:28.888 |V| Base                          | :1                 | closing server socket
+23:39:28.926 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:39:28.928 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:39:28.928 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:39:28.930 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:39:28.932 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:39:28.934 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | ServerSocket-UnityServer: Total traffic: sent 1253, received 1245
+23:39:28.943 |V| Server                        | ServerSocket-UnityServer-Receiver:164 | ServerSocket-UnityServer: terminated.
+23:39:28.943 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:39:34.733 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:39:34.758 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:39:34.788 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:39:34.838 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56760
+23:39:34.840 |V| Server                        | ServerSocket-UnityServer-Receiver:172 | ServerSocket-UnityServer : accepting, port: 56760
+23:39:36.977 |V| Server                        | ServerSocket-UnityServer-Receiver:172 | ServerSocket-UnityServer : accepted
+23:39:36.979 |V| Server                        | ServerSocket-UnityServer-Receiver:172 | ServerSocket-UnityServer : connected
+23:39:37.021 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:172 | RESUME :: state=AsyncProcessing
+23:39:38.368 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:39:38.371 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:39:38.375 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:39:38.376 |I| Launcher                      | :1                 | Subscribing for events
+23:39:38.400 |I| Launcher                      | :1                 | Start running backend
+23:39:38.404 |V| Launcher                      | :1                 | Waiting connection...
+23:39:40.149 |V| Launcher                      | :1                 | Ready!
+23:39:53.525 |V| Server                        | ServerSocket-UnityServer-Receiver:172 | ServerSocket-UnityServer: Total traffic: sent 1109, received 2569
+23:39:53.526 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:172 | PAUSE ('Disconnected') :: state=AsyncProcessing
+23:39:53.539 |V| Server                        | ServerSocket-UnityServer-Receiver:172 | ServerSocket-UnityServer: terminated.
+23:39:53.545 |V| Base                          | :1                 | closing server socket
+23:39:53.574 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:39:53.576 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:39:53.577 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:39:53.577 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:39:53.578 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:39:59.630 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:39:59.655 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:39:59.687 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:39:59.743 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56769
+23:39:59.746 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | ServerSocket-UnityServer : accepting, port: 56769
+23:40:01.646 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | ServerSocket-UnityServer : accepted
+23:40:01.649 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | ServerSocket-UnityServer : connected
+23:40:01.694 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:179 | RESUME :: state=AsyncProcessing
+23:40:03.355 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:40:03.357 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:40:03.362 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:40:03.363 |I| Launcher                      | :1                 | Subscribing for events
+23:40:03.385 |I| Launcher                      | :1                 | Start running backend
+23:40:03.389 |V| Launcher                      | :1                 | Waiting connection...
+23:40:04.310 |V| Launcher                      | :1                 | Ready!
+23:46:31.214 |V| Base                          | :1                 | closing server socket
+23:46:31.240 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+23:46:31.243 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+23:46:31.243 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+23:46:31.244 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+23:46:31.245 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+23:46:31.247 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | ServerSocket-UnityServer: Total traffic: sent 1253, received 1283
+23:46:31.249 |V| Server                        | ServerSocket-UnityServer-Receiver:179 | ServerSocket-UnityServer: terminated.
+23:46:31.250 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+23:46:37.618 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+23:46:37.644 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+23:46:37.675 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+23:46:37.725 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 56888
+23:46:37.730 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | ServerSocket-UnityServer : accepting, port: 56888
+23:46:39.652 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | ServerSocket-UnityServer : accepted
+23:46:39.657 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | ServerSocket-UnityServer : connected
+23:46:39.740 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:187 | RESUME :: state=AsyncProcessing
+23:46:42.126 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+23:46:42.128 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+23:46:42.133 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+23:46:42.134 |I| Launcher                      | :1                 | Subscribing for events
+23:46:42.162 |I| Launcher                      | :1                 | Start running backend
+23:46:42.167 |V| Launcher                      | :1                 | Waiting connection...
+23:46:43.325 |V| Launcher                      | :1                 | Ready!
+00:12:37.010 |V| Base                          | :1                 | closing server socket
+00:12:37.039 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+00:12:37.042 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+00:12:37.042 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+00:12:37.044 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+00:12:37.045 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | Exception in SocketWire.Receive: SocketException ServerSocket-UnityServer interrupted
+00:12:37.048 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | ServerSocket-UnityServer: Total traffic: sent 1253, received 1283
+00:12:37.051 |V| Server                        | ServerSocket-UnityServer-Receiver:187 | ServerSocket-UnityServer: terminated.
+00:12:37.052 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
+00:12:45.280 |I| Launcher                      | :1                 | Checking if build hasn't expired.
+00:12:45.304 |I| Launcher                      | :1                 | Starting RiderFlow frontend
+00:12:45.345 |V| ServerSocket-UnityServer-Sender| :1                 | PAUSE ('Disconnected') :: state=Initialized
+00:12:45.402 |V| Server                        | :1                 | ServerSocket-UnityServer : started, port: 57295
+00:12:45.404 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer : accepting, port: 57295
+00:12:46.495 |V| RiderFlowAnalytics            | :1                 | Found 'analytics' in /Users/home/.config/RiderFlow. Trying to extract use guid...
+00:12:46.498 |V| RiderFlowAnalytics            | :1                 | Found uuid in 'analytics'.
+00:12:46.505 |I| Launcher                      | :1                 | Creating Root ScriptableObject
+00:12:46.505 |I| Launcher                      | :1                 | Subscribing for events
+00:12:46.537 |I| Launcher                      | :1                 | Start running backend
+00:12:46.541 |V| Launcher                      | :1                 | Waiting connection...
+00:12:47.125 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer : accepted
+00:12:47.126 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer : connected
+00:12:47.186 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:196 | RESUME :: state=AsyncProcessing
+00:12:48.746 |V| Launcher                      | :1                 | Ready!
+00:14:18.890 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | Stop receive messages because socket disconnected
+00:14:18.894 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer: Total traffic: sent 1126, received 1428
+00:14:18.894 |V| ServerSocket-UnityServer-Sender| ServerSocket-UnityServer-Receiver:196 | PAUSE ('Disconnected') :: state=AsyncProcessing
+00:14:18.908 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer : accepting, port: 57295
+00:14:18.907 |V| Server                        | Thread Pool Worker:98 | ServerSocket-UnityServer: $System.Net.Sockets.SocketException raised during ACK, seqn = 27 The socket has been shut down
+
+--- EXCEPTION #1/2 [SocketException]
+Message = “The socket has been shut down”
+ExceptionPath = Root.InnerException
+NativeErrorCode = 10058
+ClassName = System.Net.Sockets.SocketException
+HResult = E_FAIL=EFail=80004005
+Source = System
+StackTraceString = “
+  at System.Net.Sockets.Socket.Send (System.Byte[] buffer, System.Int32 offset, System.Int32 size, System.Net.Sockets.SocketFlags socketFlags) [0x00016] in <8a7d408b6e6348bc807930dd4bcb7668>:0 
+    at System.Net.Sockets.Socket.Send (System.Byte[] buffer) [0x00000] in <8a7d408b6e6348bc807930dd4bcb7668>:0 
+    at JetBrains.Rd.Impl.SocketWire+Base.SendAck (System.Int64 seqN) [0x0005e] in <571d37b75c244ae3ac89de39fa6fa336>:0
+”
+
+--- Outer ---
+
+--- EXCEPTION #2/2 [LoggerException]
+Message = “ServerSocket-UnityServer: $System.Net.Sockets.SocketException raised during ACK, seqn = 27 The socket has been shut down”
+ExceptionPath = Root
+ClassName = JetBrains.Util.LoggerException
+InnerException = “Exception #1 at Root.InnerException”
+HResult = COR_E_APPLICATION=80131600
+StackTraceString = “
+  at JetBrains.Util.LoggerBase.Log (JetBrains.Diagnostics.LoggingLevel level, System.String message, System.Exception ex) [0x00000] in <b9e1b784e755432ab454c95758a280e1>:0 
+    at JetBrains.Diagnostics.Log+SwitchingLog.JetBrains.Diagnostics.ILog.Log (JetBrains.Diagnostics.LoggingLevel level, System.String message, System.Exception exception) [0x00000] in <95b7b578c5b24623a9484fdb60ef8252>:0 
+    at JetBrains.Diagnostics.LogEx.Verbose (JetBrains.Diagnostics.ILog this, System.Exception ex, System.String message) [0x00000] in <95b7b578c5b24623a9484fdb60ef8252>:0 
+    at JetBrains.Rd.Impl.SocketWire+Base.SendAck (System.Int64 seqN) [0x00000] in <571d37b75c244ae3ac89de39fa6fa336>:0 
+    at JetBrains.Threading.Actor`1+<>c__DisplayClass14_0[T].<.ctor>b__0 (T item) [0x00000] in <95b7b578c5b24623a9484fdb60ef8252>:0 
+    at System.Runtime.CompilerServices.AsyncTaskMethodBuilder.Start[TStateMachine] (TStateMachine& stateMachine) [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at JetBrains.Threading.Actor`1+<>c__DisplayClass14_0[T].<.ctor>b__0 (T item) [0x00000] in <95b7b578c5b24623a9484fdb60ef8252>:0 
+    at JetBrains.Threading.Actor`1[T].Process () [0x00000] in <95b7b578c5b24623a9484fdb60ef8252>:0 
+    at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.InvokeMoveNext (System.Object stateMachine) [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext executionContext, System.Threading.ContextCallback callback, System.Object state, System.Boolean preserveSyncCtx) [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Runtime.CompilerServices.AsyncMethodBuilderCore+MoveNextRunner.Run () [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Threading.Tasks.AwaitTaskContinuation.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem () [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Threading.ThreadPoolWorkQueue.Dispatch () [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0 
+    at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback () [0x00000] in <1fe4b731108247d3a7e57fad336611b9>:0
+”
+
+00:14:20.258 |V| Base                          | :1                 | closing server socket
+00:14:20.261 |V| Server                        | :1                 | ServerSocket-UnityServer: start termination of lifetime
+00:14:20.262 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer: SocketException with message interrupted
+00:14:20.262 |V| Server                        | ServerSocket-UnityServer-Receiver:196 | ServerSocket-UnityServer: terminated.
+00:14:20.264 |V| Server                        | :1                 | ServerSocket-UnityServer: send buffer stopped, success: True
+00:14:20.264 |V| Server                        | :1                 | ServerSocket-UnityServer: closing socket because of lifetime
+00:14:20.265 |V| Server                        | :1                 | ServerSocket-UnityServer: waiting for receiver thread
+00:14:20.265 |V| Server                        | :1                 | ServerSocket-UnityServer: termination finished
